@@ -56,59 +56,82 @@ Step 10 : Published report to Power BI Service & pinned visuals to create a sing
 ** Currently unavailable **
  
  # Report Snapshot (Power BI DESKTOP)
+ <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/413938c4-9fe8-4ed7-9ed9-a60683164301" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4f3400ca-2365-44af-8f1e-5dc2ea678332" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0d4d12e9-67f1-4683-9353-009b07681cd1" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8298ee1a-49d6-47cc-8cae-0ade54a75d4f" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/bfdc93c5-b5f3-43ae-806e-dd3dce66d144" />
 
  
+# Insights  
 
-# Insights
+A multi-page report was created on Power BI Desktop & later consolidated into a single-page dashboard in Power BI Service.  
 
-A multi-page report was created on Power BI Desktop & later consolidated into a single-page dashboard in Power BI Service.
+Following inferences can be drawn from the dashboard;  
 
-Following inferences can be drawn from the dashboard;
+### [1] Overall KPIs  
 
-[1] Overall KPIs
+- **Total Sales** = 94M – 107M (across periods compared)  
+- **Total Profit** = 9.4M – 10.7M (across periods compared)  
+- **Total Orders** = 5.4K – 6.3K (across periods compared)  
+- **Average Discount** = [value pending from data]%  
 
-Total Sales = [value]
+---
 
-Total Profit = [value]
+### [2] Top/Bottom Products  
 
-Total Orders = [value]
+- **Top 5 Products by Sales**:  
+  - Apple iPhone 14 (21M)  
+  - Apple MacBook Air (19M)  
+  - Sony Bravia 55” TV (19M)  
+  - Samsung Galaxy S21 (15M)  
+  - HP Pavilion Laptop (14M)  
 
-Average Discount = [value]%
+- **Bottom 5 Products by Sales**:  
+  - Tupperware Lunch Box (0.26M)  
+  - L’Oreal Shampoo (0.17M)  
+  - Nivea Body Lotion (0.08M)  
+  - Dove Soap Pack (0.08M)  
+  - Colgate Toothpaste (0.02M)  
 
-[2] Top/Bottom Products
+- **Top 5 Products by Profit**:  
+  - Apple iPhone 14 (2.1M)  
+  - Apple MacBook Air (1.9M)  
+  - Sony Bravia 55” TV (1.9M)  
+  - Samsung Galaxy S21 (1.5M)  
+  - HP Pavilion Laptop (1.4M)  
 
-Top 5 products by Sales = [list]
+- **Bottom 5 Products by Profit**:  
+  - Tupperware Lunch Box (26K)  
+  - L’Oreal Shampoo (17K)  
+  - Nivea Body Lotion (8K)  
+  - Dove Soap Pack (8K)  
+  - Colgate Toothpaste (2K)  
 
-Bottom 5 products by Sales = [list]
+---
 
-Top 5 products by Profit = [list]
+### [3] Sales Trends  
 
-Bottom 5 products by Profit = [list]
+- **Highest sales recorded**: Second selected period (107M).  
+- **Lowest sales recorded**: First selected period (94M).  
+- **Observation**: Clear growth in both Sales (+13M), Profit (+1.3M), and Quantity Sold (+900) between the two selected periods.  
 
-[3] Sales Trends
+---
 
-Highest sales recorded in [month/quarter/year].
+### [4] Sales vs Profit Relationship  
 
-Lowest sales recorded in [month/quarter/year].
+- Strong **positive correlation** between Sales & Profit (top products like iPhone 14 and MacBook Air drive both).  
+- Some **low-value products** (Tupperware, soaps, lotions) contribute sales but generate **minimal profit**.  
 
-Seasonal/quarterly trends observed with peaks in [period].
+---
 
-[4] Sales vs Profit Relationship
+### [5] Discount Insights  
 
-Positive correlation between Sales & Profit overall.
+- Average discount percentage not shown in the shared snapshots — needs to be pulled from the **Discount KPI/visual** in the dashboard.  
+- Likely trend: **High-discount products fall in Bottom 5 Profit category**, affecting overall profitability.  
 
-Some products showed high sales but negative/low profit due to heavy discounts.
 
-[5] Discount Insights
+### [6] Sales by City  
 
-Average discount offered = [value]%.
-
-[Category] had the maximum average discount.
-
-Heavy discounting impacted profit margins for certain products.
-
-[6] Sales by City
-
-City with highest sales = [city].
-
-City with lowest sales = [city].
+- **Highest Sales City** = Mumbai (~9.83M Net Sales)  
+- **Lowest Sales City** = Bangalore (~1.54M Net Sales)  
