@@ -18,8 +18,25 @@ They focus on building interactive dashboards and reports for real-world domains
    
 
 ---
+### 2. Road Accident Dashboard 
+- 📌 **Note**: This dashboard was created as part of the **internship selection** process for **CiSTUP, IISc Bangalore** (Round 1 task).
+  
+- **Objective** : Analyze road accident data to identify patterns, accident severity, and contributing factors such as road type, weather conditions, light conditions, junction control, and vehicle involvement. The goal is to provide insights for authorities to improve road safety and reduce accidents.
+- **Key Features** :
+- Accident Severity Distribution – visualize fatal, serious, and slight accidents
+- Number of Accidents Over Time – monthly and yearly trends
+- Accidents by Day of the Week – identify peak days for accidents
+- Top Junction Controls Contributing to Accidents
+- Weather and Road Surface Conditions vs. Accident Severity
+- Casualties by Vehicle Type
+- Geographical Analysis – accidents by location, rural/urban distribution, and road type
+- Current Year vs Previous Year Casualties – monthly comparison for trend analysis
+- **Tools**: Power BI, DAX, Power Query
 
-### 2. Insurance Dashboard  
+
+
+
+### 3. Insurance Dashboard  
 - **Objective**: Provide insights into customer policies, claims, premiums, and risk analysis.  
 - **Key Features**:  
   - Policy distribution by type and region  
@@ -30,7 +47,7 @@ They focus on building interactive dashboards and reports for real-world domains
 
 ---
 
-### 3. UPI Transaction Dashboard 
+### 4. UPI Transaction Dashboard 
 - **Objective**: Analyze digital payment transactions to understand adoption trends, user behavior, and transaction safety.  
 - **Key Features**:  
   - Monthly/quarterly UPI transaction trends  
