@@ -34,18 +34,19 @@ The goal is to help authorities improve road safety and reduce the number of acc
 
 ## Snapshots  
 
-*(Insert snapshots here: overview, severity breakdown, map, etc.)*  
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/eb15762b-1e65-4278-bf5a-c642482198af" />
+<img width="1330" height="733" alt="Image" src="https://github.com/user-attachments/assets/a66c0616-7119-4b8d-a19c-6316d943441c" />
 
 ---
 
 ## Insights  
 
-- **Total Accidents** = [value]  
-- **Fatal Accidents** = [value]  
-- **Serious Accidents** = [value]  
-- **Slight Accidents** = [value]  
-- Highest number of accidents occurred in **[year/region]**.  
-- Most accidents happened on **[road type]** under **[weather condition]**.  
+- **Total Accidents** = 144.4k
+- **Fatal Accidents** = 2.9k 
+- **Serious Accidents** = 27.0k  
+- **Slight Accidents** = 165.8k  
+- Highest number of accidents occurred in **2021/Urban(61.95%)**.  
+- Most accidents happened on **Single carriageway** under **Fine(117k)**.  
 - **Car/Two-Wheeler** accounted for the majority of vehicles involved in accidents.  
 
 ---
